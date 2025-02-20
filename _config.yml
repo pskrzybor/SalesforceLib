@@ -1,14 +1,14 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Salesforce Links Library
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Collecting Salesforce links to not look for them everytime
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+ # Image_URL: https://github.com/harsh98trivedi.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://picsum.photos/1080?nocache=
+Cover_Image: https://d259t2jj6zp7qm.cloudfront.net/images/20220720113405/Copy-of-Blog-Images-Post-Templates-.png
 
 # SOCIAL MEDIA
 links:
@@ -17,14 +17,14 @@ links:
     
     # FACEBOOK
   - Name: Facebook
-    URL: https://www.facebook.com
+    URL: 
     Username: harsh98trivedi
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
-    URL: https://www.instagram.com
+    URL: 
     Username: harsh98trivedi
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
