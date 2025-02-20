@@ -16,6 +16,13 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # FACEBOOK
+  - Name: Apex Dev Guide
+    URL: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+    Username:
+    Color: '#15c4ef'
+    Icon-Class: fab fa-salesforce
+
+    # FACEBOOK
   - Name: Facebook
     URL: 
     Username: harsh98trivedi
