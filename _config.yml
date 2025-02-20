@@ -38,7 +38,7 @@ links:
 
     # TWITTER
   - Name: Twitter
-    URL: https://x.com
+    URL:
     Username: harsh98trivedi
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
