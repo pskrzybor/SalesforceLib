@@ -20,6 +20,12 @@ links:
     URL: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
     Color: '#15c4ef'
     Icon-Class: fab fa-salesforce
+    
+    # CPQ DEV
+  - Name: CPQ Dev Guide
+    URL: https://developer.salesforce.com/docs/atlas.en-us.cpq_dev_api.meta/cpq_dev_api/cpq_developer_guide_intro.htm
+    Color: '#15c4ef'
+    Icon-Class: fas fa-file-invoice
 
 #    # FACEBOOK
 #  - Name: Facebook
