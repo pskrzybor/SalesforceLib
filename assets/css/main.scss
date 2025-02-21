@@ -57,7 +57,7 @@ html {
           display: inline-block;
           position: absolute;
           bottom: 100%; // Position above the element
-          left: 50%; // Move the tooltip to the center
+          left: 60%; // Move the tooltip to the center
           transform: translateX(-50%); // Shift it back by 50% of its width to center it
           background: #000;
           color: #FFF;
@@ -73,7 +73,7 @@ html {
       
         &:hover::before {
           opacity: 1;
-          bottom: 120%; // Slightly above the element
+          bottom: 100%; 
         }
       }
 }
