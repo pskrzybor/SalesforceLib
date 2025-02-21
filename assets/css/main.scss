@@ -49,27 +49,31 @@ html {
     }
     .tooltip {
         position: relative;
+        display: inline-block; // Ensures proper positioning of inline elements
       
         &::before {
           content: "\2003" attr(class); // print em-space with class text
-          text-indent: -3.9em; // add negative text offset to hide class name
+          text-indent: -4.5em; // add negative text offset to hide class name
           display: inline-block;
           position: absolute;
-          bottom: 50%;
+          bottom: 100%; // Position above the element
+          left: 50%; // Move the tooltip to the center
+          transform: translateX(-50%); // Shift it back by 50% of its width to center it
           background: #000;
           color: #FFF;
           padding: 5px;
           border-radius: 5px;
           opacity: 0;
-          transition: 0.3s;
+          transition: 0.3s ease-in-out;
           overflow: hidden;
-          max-width: 50%; // avoids very long sentences
-          pointer-events: none; // prevents tooltip from firing on pseudo hover
+          max-width: 50%; // Avoids very long sentences
+          white-space: nowrap; // Prevents line breaks
+          pointer-events: none; // Prevents tooltip from firing on pseudo hover
         }
       
         &:hover::before {
           opacity: 1;
-          bottom: 100%;
+          bottom: 120%; // Slightly above the element
         }
       }
 }
