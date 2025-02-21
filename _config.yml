@@ -33,6 +33,12 @@ links:
     Color: '#15c4ef'
     Icon-Class: fas fa-file-invoice
 
+    # Billing
+  - Name: Billing Cloud
+    URL: https://help.salesforce.com/s/articleView?id=sales.blng_overview.htm&type=5
+    Color: '#15c4ef'
+    Icon-Class: fas fa-file-invoice-dollar
+
 #    # FACEBOOK
 #  - Name: Facebook
 #    URL: 
