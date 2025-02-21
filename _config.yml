@@ -21,6 +21,7 @@ links:
     Username:
     Color: '#15c4ef'
     Icon-Class: fab fa-salesforce
+    Description: "test text"
 
 #    # FACEBOOK
 #  - Name: Facebook
