@@ -43,6 +43,7 @@ links:
   - Name: PAstebin SF snippets
     URL: https://help.salesforce.com/s/articleView?id=sales.blng_overview.htm&type=5
     Color: '#ffff80'
+    Text_Color: '#000000'
     Icon-Class: fas fa-paste
 
 #    # FACEBOOK
