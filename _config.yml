@@ -27,6 +27,12 @@ links:
     Color: '#15c4ef'
     Icon-Class: fas fa-file-invoice
 
+    # CPQ Admin
+  - Name: CPQ Guide
+    URL: https://help.salesforce.com/s/articleView?id=sales.cpq_master.htm&type=5
+    Color: '#15c4ef'
+    Icon-Class: fas fa-file-invoice
+
 #    # FACEBOOK
 #  - Name: Facebook
 #    URL: 
