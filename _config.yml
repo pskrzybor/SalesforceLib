@@ -18,10 +18,8 @@ links:
     # APEX
   - Name: Apex Dev Guide
     URL: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
-    Username:
     Color: '#15c4ef'
     Icon-Class: fab fa-salesforce
-    Description: "test text"
 
 #    # FACEBOOK
 #  - Name: Facebook
