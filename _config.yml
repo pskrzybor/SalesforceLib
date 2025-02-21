@@ -39,6 +39,12 @@ links:
     Color: '#15c4ef'
     Icon-Class: fas fa-file-invoice-dollar
 
+    # Pastebin
+  - Name: PAstebin SF snippets
+    URL: https://help.salesforce.com/s/articleView?id=sales.blng_overview.htm&type=5
+    Color: '#ffff80'
+    Icon-Class: fas fa-paste
+
 #    # FACEBOOK
 #  - Name: Facebook
 #    URL: 
