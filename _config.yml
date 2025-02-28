@@ -25,8 +25,8 @@ links:
   - Name: Apex Class and Method Headers
     URL: https://gist.github.com/pskrzybor/e456fd4801e87bcadf4fa0c145ac60c8
     Color: '#8000ff'
-    Icon-Class: fas fa-github
-    
+    Icon-Class: fab fa-github
+
     # Billing
   - Name: Billing Cloud
     URL: https://help.salesforce.com/s/articleView?id=sales.blng_overview.htm&type=5
