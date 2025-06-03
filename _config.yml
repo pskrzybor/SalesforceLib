@@ -67,9 +67,10 @@ links:
     # DenCode
   - Name: DenCode
     URL: https://dencode.com/
-    Color: '#OOOOOO'
+    Color: '#636363'
     Text_Color: '#FFFFFF'
     Icon-Class: fas fa-circle-nodes
+    
 
 #    # FACEBOOK
 #  - Name: Facebook
