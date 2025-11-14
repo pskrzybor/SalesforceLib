@@ -70,7 +70,20 @@ links:
     Color: '#636363'
     Text_Color: '#FFFFFF'
     Icon-Class: fas fa-circle-nodes
-    
+
+    # MxToolbox
+  - Name: MxToolbox
+    URL: https://mxtoolbox.com/SuperTool.aspx
+    Color: '#fba944'
+    Text_Color: '#FFFFFF'
+    Icon-Class: fas fa-toolbox
+
+    # DNS Checker
+  - Name: DNS Checker
+    URL: https://dnschecker.org/
+    Color: '#0080ff'
+    Text_Color: '#FFFFFF'
+    Icon-Class: fas fa-globe
 
 #    # FACEBOOK
 #  - Name: Facebook
